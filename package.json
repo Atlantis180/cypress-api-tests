@@ -1,0 +1,23 @@
+{
+  "name": "cypress-api-tests",
+  "version": "1.0.0",
+  "description": "cypress api testing example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atlantis180/cypress-api-tests.git"
+  },
+  "author": "Tina Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atlantis180/cypress-api-tests/issues"
+  },
+  "homepage": "https://github.com/Atlantis180/cypress-api-tests#readme",
+  "dependencies": {
+    "cypress": "^11.2.0",
+    "cypress-plugin-api": "^2.6.1"
+  }
+}
